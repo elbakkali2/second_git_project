@@ -1,4 +1,4 @@
 this is second file
 
 
-change are made in second fille from gitHub => lol :).
+change are made in second file from gitHub => lol :).
