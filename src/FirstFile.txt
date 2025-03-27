@@ -2,4 +2,4 @@ this is first file
 
 
 
-change are made in first fille from gethub
+change are made in first fille from gitHub
